@@ -1,0 +1,4 @@
+<Nome do bloco de código> = [
+    <Nome do plano> = <SNAIL (<Versão da linguagem de programação SNAIL>), <Modo>, security <Estado de segurança>, systemAdmin <Estado do modo de administrador>, plain <Número do palno>>
+]
+<Nome do bloco de código>.start
